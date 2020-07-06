@@ -9,7 +9,6 @@ Bir film artistinin  Kevin Bacon Sayısı, o artistin Kevin Bacon’a en az kaç
  
 • Elvis Presley Kevin Bacon’la aynı filmde oynamamıştır. Fakat Change of Habit filminde  Edward Asner ile oynamıştır. Asner de  JFK filminde Kevin Bacon ile birlikte oynadığı için Elvis Presley’in Kevin Bacon Sayısı 2’dir.   
  
- 
 Bu çalışmada aşağıdaki işlemleri yapabilen bir sistem tasarlayınız: 
  
 1. Adı verilen bir artistin Kevin Bacon Sayısını ve bununla ilgili bilgiyi veriniz. Eğer Kevin Bacon sayısı 6’yı geçiyorsa bu artistin Kevin Bacon’la bağlantısı yoktur.  
